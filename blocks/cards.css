@@ -50,3 +50,8 @@
   height: 18px;
   border: none;
 }
+.card__like-button:hover {
+  opacity: 50%;
+  transition: opacity 0.2s linear;
+  cursor: pointer;
+}
