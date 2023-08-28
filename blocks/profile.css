@@ -53,7 +53,6 @@
   border: solid #fff 1px;
 }
 .profile__edit-button:hover {
-  opacity: 50%;
   transition: 0.2s;
   cursor: pointer;
 }
@@ -66,7 +65,6 @@
   border-radius: 2px;
 }
 .profile__add-button:hover {
-  opacity: 50%;
   transition: 0.2s;
   cursor: pointer;
 }
@@ -92,6 +90,7 @@
   .profile__title {
     font-size: 22px;
     line-height: 27px;
+    max-width: 220px;
   }
   .profile__add-button {
     padding-left: 10px;
