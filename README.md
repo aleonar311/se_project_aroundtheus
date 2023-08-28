@@ -21,5 +21,9 @@ The way you'll do this at work is by exporting images directly from Figma — we
 Good luck and have fun!
 
 **GitHuh**
+Name of Project i worked on is Called Around The U.S
+My project functions on media queries for smooth transitions
+between Desktop to Mobile Use.
+it contains pics and button functions.
 This is My Link to my live GitHub Page.
 https://aleonar311.github.io/se_project_aroundtheus/
