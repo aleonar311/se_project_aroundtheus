@@ -16,7 +16,7 @@ The way you'll do this at work is by exporting images directly from Figma — we
 
 Good luck and have fun!
 
-**GitHub**
+**About Project**
 Name of Project i worked on is Called Around The U.S
 My project functions on media queries for smooth transitions
 between Desktop to Mobile Use.
